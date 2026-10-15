@@ -1,0 +1,4 @@
+ID Transaccion,Fecha Venta,Monto Total,Categoria
+101,2026-10-01,250000,Auditoria
+102,2026-10-02,450000,Consultoria
+103,2026-10-03,120000,Soporte

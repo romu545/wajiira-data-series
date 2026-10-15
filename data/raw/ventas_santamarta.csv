@@ -1,0 +1,4 @@
+ID Transaccion,Fecha Venta,Monto Total,Categoria
+201,2026-10-01,300000,Consultoria
+202,2026-10-02,150000,Soporte
+203,2026-10-03,500000,Implementacion

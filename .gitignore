@@ -1,0 +1,12 @@
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.DS_Store
+
+# Ignorar datos procesados pero dejar las carpetas
+data/clean/*
+!data/clean/.gitkeep
