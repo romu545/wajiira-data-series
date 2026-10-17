@@ -6,6 +6,8 @@ __pycache__/
 .venv/
 env/
 .DS_Store
+*.duckdb
+*.duckdb.wal
 
 # Ignorar datos procesados pero dejar las carpetas
 data/clean/*
