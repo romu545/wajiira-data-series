@@ -8,6 +8,12 @@ env/
 .DS_Store
 *.duckdb
 *.duckdb.wal
+data/raw/
+data/raw_drift/
+data/incoming/
+data/parquet/
+data/database/
+data/tmp/
 
 # Ignorar datos procesados pero dejar las carpetas
 data/clean/*
